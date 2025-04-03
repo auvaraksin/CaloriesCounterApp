@@ -1,6 +1,6 @@
 Приложение CaloriesCounterAppApplication является демонстрационным с целью 
 показать возможности и способы применения JAVA17 и инструментов из состава
-SpringBoot (в том числе Spring Web Services, Spring Data JPA, PostgreSQL Driber, Lombok)
+SpringBoot (в том числе Spring Web Services, Spring Data JPA, PostgreSQL Driver, Lombok)
 для реализации REST API сервиса с использованием базы данных PostgerSQL при решении задач
 учета пользователей сервисом, автоматического расчета суточной нормы калорий пользователя по
 формулере Харриса-Бенедикта на основании внесенных данных, а также автоматизированного 
